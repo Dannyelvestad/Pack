@@ -26,7 +26,7 @@ Hver kamp varer i 2t 30m
 * Hvert lag vil bestå av 3 spillere.
 * Lag vil bli trekt helt tilfeldig etter oppmøte og gjelde for hele turneringen. 
 
-## Ta med:
+## Ta med
 
 * Hæren din: Må være bygget, men trenger ikke være malt. Alle baser må konformere til GWs anbefalte størrelser. Conversions på riktig baser er greit, men det må være åpenbart for motstander hva modellen
   representerer.
